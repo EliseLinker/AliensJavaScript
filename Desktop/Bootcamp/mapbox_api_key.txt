@@ -1,2 +1,0 @@
- "access_token=pk.eyJ1IjoiZWxpc2VsaW5rZXIiLCJhIjoiY2poYjRydHgxMGxtdDMwbjNrMW1hOHR0MSJ9." +
-    "1FtKV3p773mbUw475LiTCQ"
